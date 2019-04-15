@@ -4,4 +4,6 @@ git remote add origin https://github.com/Mteam777/evs388-php.git
 
 git remote -v
 
+git push orgiin master
 
+git branch
